@@ -9,6 +9,7 @@ php artisan migrate
 ```
 
 #### Unit Test
+##### Create database/test.sqlite file manually. See .env.testing for more information
 ```
 php artisan test
 ```
